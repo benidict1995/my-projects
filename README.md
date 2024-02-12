@@ -11,7 +11,7 @@
 **Y+** [link](https://play.google.com/store/apps/details?id=com.aljayagro.yplus&hl=en&gl=US)
 > [!NOTE]
 > **Position:** Lead Mobile Engineer</br>
-> **Contribution:** Creating the app from scratch up to the distribution.</br>
+> **Contribution:** Lead the mobile development team and Creating the app from scratch up to the distribution.</br>
 > **Description:** Rise from the norm, champion the farmers! Maximize profitability, Enhance Farm competitiveness Shift from the sea of opportunities, digitalize farming Empower the youth, challenge the perspective.
 
 **MetroMart - Grocery Delivery** [link](https://play.google.com/store/apps/details?id=com.metromart.metromart&hl=en_US)
