@@ -5,7 +5,7 @@
 **GetGo Pay** [link](https://play.google.com/store/apps/details?id=com.unionbankph.getgopay&hl=en)
 > [!NOTE]
 > **Position:** Android Engineer</br>
-> **Contribution:** Bea part of the development team who creating the app from scratch up to the distribution.</br>
+> **Contribution:** Be a part of the development team who creating the app from scratch up to the distribution.</br>
 > **Description:** GetGo Pay is the new mobile app to manage your CEB GetGo Prepaid Cards. Quickly access your accounts via Face ID or Touch ID with an added layer of security of One-Time Password (OTP).
 
 **Y+** [link](https://play.google.com/store/apps/details?id=com.aljayagro.yplus&hl=en&gl=US)
