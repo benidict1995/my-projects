@@ -1,6 +1,6 @@
 # Portfolio
 
-Android:
+**Android:**
 
 - GetGo Pay [link](https://play.google.com/store/apps/details?id=com.unionbankph.getgopay&hl=en)
 - Y+ [link](https://play.google.com/store/apps/details?id=com.aljayagro.yplus&hl=en&gl=US)
@@ -24,6 +24,6 @@ Android:
 - Pancake House [link]
 
 
-iOS:
+**iOS:**
 - Fullerton Health Indonesia [link](https://apps.apple.com/us/app/fh-indonesia/id1451039396)
 - Shakey's Super App [link](https://apps.apple.com/ph/app/shakeys-super-app/id1536371207)
